@@ -1,0 +1,5 @@
+numpy
+torch
+stable-baselines3
+git+git://github.com/stefandtw/domrl@custom#egg=domrl
+matplotlib
